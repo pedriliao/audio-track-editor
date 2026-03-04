@@ -1,0 +1,5 @@
+*.o
+*.so
+*.dylib
+*.out
+test_*
